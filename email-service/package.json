@@ -1,0 +1,22 @@
+{
+  "name": "email-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ioredis": "^5.8.2",
+    "nodemailer": "^7.0.11",
+    "shared": "git+https://github.com/TechnicalDangwal/shared.git"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^7.0.4",
+    "typescript": "^5.9.3"
+  }
+}

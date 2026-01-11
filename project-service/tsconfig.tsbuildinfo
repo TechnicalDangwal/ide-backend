@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/consumers/consumer.map.ts","./src/consumers/userregistered.consumer.ts","./src/controller/project.controllers.ts","./src/models/project.models.ts","./src/routes/project.routes.ts","./src/types/index.ts","./src/utils/dbconnection.ts","./src/utils/rabbitmq.ts","./src/utils/redis.ts"],"version":"5.9.2"}
